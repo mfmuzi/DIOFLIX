@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\DIO\DIO MRV\Projetos\DIOFLIX\bin\Debug\net6.0\DIOFLIX.exe
+C:\Users\Usuario\Desktop\DIO\DIO MRV\Projetos\DIOFLIX\bin\Debug\net6.0\DIOFLIX.deps.json
+C:\Users\Usuario\Desktop\DIO\DIO MRV\Projetos\DIOFLIX\bin\Debug\net6.0\DIOFLIX.runtimeconfig.json
+C:\Users\Usuario\Desktop\DIO\DIO MRV\Projetos\DIOFLIX\bin\Debug\net6.0\DIOFLIX.dll
+C:\Users\Usuario\Desktop\DIO\DIO MRV\Projetos\DIOFLIX\bin\Debug\net6.0\ref\DIOFLIX.dll
+C:\Users\Usuario\Desktop\DIO\DIO MRV\Projetos\DIOFLIX\bin\Debug\net6.0\DIOFLIX.pdb
+C:\Users\Usuario\Desktop\DIO\DIO MRV\Projetos\DIOFLIX\obj\Debug\net6.0\DIOFLIX.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\DIO\DIO MRV\Projetos\DIOFLIX\obj\Debug\net6.0\DIOFLIX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\DIO\DIO MRV\Projetos\DIOFLIX\obj\Debug\net6.0\DIOFLIX.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\DIO\DIO MRV\Projetos\DIOFLIX\obj\Debug\net6.0\DIOFLIX.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\DIO\DIO MRV\Projetos\DIOFLIX\obj\Debug\net6.0\DIOFLIX.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\DIO\DIO MRV\Projetos\DIOFLIX\obj\Debug\net6.0\DIOFLIX.dll
+C:\Users\Usuario\Desktop\DIO\DIO MRV\Projetos\DIOFLIX\obj\Debug\net6.0\ref\DIOFLIX.dll
+C:\Users\Usuario\Desktop\DIO\DIO MRV\Projetos\DIOFLIX\obj\Debug\net6.0\DIOFLIX.pdb
+C:\Users\Usuario\Desktop\DIO\DIO MRV\Projetos\DIOFLIX\obj\Debug\net6.0\DIOFLIX.genruntimeconfig.cache
